@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a8347b434f25cce4b82daa510f2121ea
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Keylock Fighter
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 29b38f14546be704e9a1a4b56099ccad, type: 3}
+  - {fileID: 12800000, guid: 7412589acf30af24197b796724187dd0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

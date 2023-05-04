@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Demo Scene.unity
+    guid: 79f8bac4c75da6e43bd8288f7d84106c
+  - enabled: 1
+    path: Assets/Scenes/Options.unity
+    guid: 5b79882f2d181214da2b1178eb68049f
+  - enabled: 1
+    path: Assets/Scenes/Rooftopp.unity
+    guid: a14f51074cc984d4ab533b06b2b49d9e
+  - enabled: 1
+    path: Assets/Scenes/Maps.unity
+    guid: 442b09ece27c73c43822cf6286f6e9ca
+  - enabled: 1
+    path: Assets/Scenes/Fighter Selecter.unity
+    guid: ef6801d6d76f78f40a550d9711e35775
+  m_configObjects: {}

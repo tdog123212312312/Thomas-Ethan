@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b833040120d9ed745ba5f1b4c99f9644
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Outliner No. 45 DEMO
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6ba1b8cd03ee57d4d882440426ffc74e, type: 3}
+  - {fileID: 12800000, guid: bee05311d0fba064d847817c11f89441, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
