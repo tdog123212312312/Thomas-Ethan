@@ -1,0 +1,78 @@
+# Written by MakeHuman 1.2.0 final
+version v1.2.0
+camera 20.0 354.0 0.0 0.0 0.0 1.225
+modifier head/head-age-decr|incr 0.428000
+modifier head/head-angle-in|out 0.666000
+modifier head/head-fat-decr|incr 0.366000
+modifier head/head-oval 0.325000
+modifier head/head-round 0.413000
+modifier torso/torso-scale-depth-decr|incr 1.000000
+modifier torso/torso-scale-horiz-decr|incr 0.396000
+modifier torso/torso-scale-vert-decr|incr 0.334000
+modifier torso/torso-trans-in|out -0.190000
+modifier torso/torso-trans-down|up -0.318000
+modifier torso/torso-trans-backward|forward 0.380000
+modifier torso/torso-vshape-decr|incr -0.142000
+modifier torso/torso-muscle-dorsi-decr|incr 1.000000
+modifier torso/torso-muscle-pectoral-decr|incr 1.000000
+modifier stomach/stomach-navel-in|out 0.238000
+modifier stomach/stomach-tone-decr|incr 0.206000
+modifier stomach/stomach-pregnant-decr|incr 0.572000
+modifier stomach/stomach-navel-down|up 0.476000
+modifier buttocks/buttocks-volume-decr|incr 1.000000
+modifier pelvis/pelvis-tone-decr|incr -0.206000
+modifier pelvis/bulge-decr|incr 1.000000
+modifier armslegs/r-hand-fingers-distance-decr|incr -0.064000
+modifier armslegs/r-hand-fingers-diameter-decr|incr 1.000000
+modifier armslegs/r-hand-fingers-length-decr|incr -0.508000
+modifier armslegs/r-hand-scale-decr|incr 0.366000
+modifier armslegs/r-hand-trans-in|out -0.142000
+modifier armslegs/l-hand-fingers-diameter-decr|incr 1.000000
+modifier armslegs/l-hand-fingers-length-decr|incr 0.508000
+modifier armslegs/r-foot-scale-decr|incr 0.476000
+modifier armslegs/r-foot-trans-in|out -1.000000
+modifier armslegs/r-foot-trans-backward|forward 1.000000
+modifier armslegs/l-foot-scale-decr|incr 0.714000
+modifier armslegs/l-foot-trans-in|out -1.000000
+modifier armslegs/l-foot-trans-backward|forward 1.000000
+modifier armslegs/r-lowerarm-scale-depth-decr|incr 1.000000
+modifier armslegs/r-lowerarm-scale-horiz-decr|incr -0.064000
+modifier armslegs/r-lowerarm-scale-vert-decr|incr 1.000000
+modifier armslegs/r-lowerarm-fat-decr|incr 0.318000
+modifier armslegs/r-lowerarm-muscle-decr|incr 1.000000
+modifier armslegs/r-upperarm-scale-depth-decr|incr 1.000000
+modifier armslegs/r-upperarm-fat-decr|incr 1.000000
+modifier armslegs/r-upperarm-shoulder-muscle-decr|incr 1.000000
+modifier armslegs/r-upperarm-muscle-decr|incr 1.000000
+modifier armslegs/l-lowerarm-scale-depth-decr|incr 1.000000
+modifier armslegs/l-lowerarm-scale-vert-decr|incr 1.000000
+modifier armslegs/l-lowerarm-fat-decr|incr 1.000000
+modifier armslegs/l-lowerarm-muscle-decr|incr 1.000000
+modifier armslegs/l-upperarm-scale-depth-decr|incr 1.000000
+modifier armslegs/l-upperarm-scale-vert-decr|incr 1.000000
+modifier armslegs/l-upperarm-fat-decr|incr 1.000000
+modifier armslegs/l-upperarm-shoulder-muscle-decr|incr 1.000000
+modifier armslegs/l-upperarm-muscle-decr|incr 1.000000
+modifier armslegs/r-lowerleg-muscle-decr|incr 1.000000
+modifier armslegs/r-upperleg-muscle-decr|incr 1.000000
+modifier breast/BreastSize 0.000000
+modifier breast/BreastFirmness 1.000000
+modifier breast/breast-trans-down|up 0.032000
+modifier breast/breast-dist-decr|incr -0.096000
+modifier breast/breast-point-decr|incr -0.096000
+modifier breast/nipple-size-decr|incr -0.016000
+modifier breast/nipple-point-decr|incr 0.206000
+modifier macrodetails/Gender 1.000000
+modifier macrodetails/Age 0.437000
+modifier macrodetails/African 0.000000
+modifier macrodetails/Asian 0.000000
+modifier macrodetails/Caucasian 1.000000
+modifier macrodetails-universal/Muscle 1.000000
+modifier macrodetails-universal/Weight 1.000000
+modifier macrodetails-height/Height 0.595000
+modifier macrodetails-proportions/BodyProportions 0.563000
+eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
+clothesHideFaces True
+skinMaterial skins/default.mhmat
+material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/brown.mhmat
+subdivide False
