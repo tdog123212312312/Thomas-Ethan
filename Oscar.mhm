@@ -1,0 +1,52 @@
+# Written by MakeHuman 1.2.0 final
+version v1.2.0
+name Oscar
+camera 17.5 334.5 0.44001582443478965 0.5500656993661128 -0.33996223627819955 0.5750000000000016
+modifier head/head-angle-in|out 0.254000
+modifier head/head-round 0.262000
+modifier head/head-invertedtriangular 0.357000
+modifier head/head-scale-depth-decr|incr 0.476000
+modifier head/head-scale-vert-decr|incr 0.444000
+modifier head/head-trans-in|out -0.206000
+modifier head/head-trans-down|up 0.380000
+modifier head/head-trans-backward|forward 0.460000
+modifier neck/neck-scale-depth-decr|incr 0.746000
+modifier neck/neck-scale-horiz-decr|incr 1.000000
+modifier neck/neck-scale-vert-decr|incr 0.350000
+modifier buttocks/buttocks-volume-decr|incr 1.000000
+modifier pelvis/pelvis-tone-decr|incr 1.000000
+modifier pelvis/bulge-decr|incr 1.000000
+modifier armslegs/r-hand-fingers-diameter-decr|incr 1.000000
+modifier armslegs/r-hand-scale-decr|incr 0.556000
+modifier armslegs/l-hand-fingers-diameter-decr|incr 1.000000
+modifier armslegs/l-hand-scale-decr|incr 0.350000
+modifier armslegs/r-foot-scale-decr|incr -0.112000
+modifier armslegs/l-foot-scale-decr|incr -0.016000
+modifier breast/BreastSize 0.500000
+modifier breast/BreastFirmness 0.500000
+modifier macrodetails/Gender 1.000000
+modifier macrodetails/Age 0.500000
+modifier macrodetails/African 0.000000
+modifier macrodetails/Asian 0.000000
+modifier macrodetails/Caucasian 1.000000
+modifier macrodetails-universal/Muscle 1.000000
+modifier macrodetails-universal/Weight 0.683000
+modifier macrodetails-height/Height 0.897000
+modifier macrodetails-proportions/BodyProportions 0.794000
+tongue tongue01 52ad91a3-caad-4e50-8c38-67634e5e789c
+teeth Teeth_Shape05 c6096ff1-46b6-4fdf-b992-49c1bc67f18b
+skeleton game_engine.mhskel
+eyebrows eyebrow001 9c81ec3a-faa5-4c94-9cdb-992300ba3084
+eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
+pose benchmark.bvh
+clothes fedora 566dbd52-71d1-4d76-a799-0474a5a384db
+clothes shoes02 8887caca-d6fb-4d73-af10-1d4fb740a936
+clothes male_casualsuit06 be449715-fd7d-49d1-bca1-7fdd4264bc2d
+clothesHideFaces True
+skinMaterial skins/default.mhmat
+material fedora 566dbd52-71d1-4d76-a799-0474a5a384db materials/black_fedora.mhmat
+material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/bluegreen.mhmat
+material eyebrow001 9c81ec3a-faa5-4c94-9cdb-992300ba3084 eyebrow001.mhmat
+material Teeth_Shape05 c6096ff1-46b6-4fdf-b992-49c1bc67f18b teeth/materials/teeth.mhmat
+material tongue01 52ad91a3-caad-4e50-8c38-67634e5e789c tongue01.mhmat
+subdivide False
