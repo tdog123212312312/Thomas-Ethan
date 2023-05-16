@@ -1,0 +1,47 @@
+# Written by MakeHuman 1.2.0 final
+version v1.2.0
+name SheMan 2.0
+camera 10.5 347.5 -0.0966374255155314 0.6599972408015644 -0.2250917567074889 1.0
+modifier head/head-round 0.159000
+modifier head/head-rectangular 0.262000
+modifier head/head-square 0.063000
+modifier head/head-scale-depth-decr|incr -0.428000
+modifier head/head-scale-horiz-decr|incr -0.158000
+modifier neck/neck-double-decr|incr -1.000000
+modifier neck/neck-scale-depth-decr|incr -0.682000
+modifier neck/neck-scale-horiz-decr|incr -0.238000
+modifier torso/torso-scale-depth-decr|incr -0.350000
+modifier torso/torso-scale-horiz-decr|incr -0.238000
+modifier torso/torso-muscle-pectoral-decr|incr 0.190000
+modifier stomach/stomach-navel-in|out -1.000000
+modifier stomach/stomach-tone-decr|incr 1.000000
+modifier stomach/stomach-pregnant-decr|incr -1.000000
+modifier buttocks/buttocks-volume-decr|incr -0.222000
+modifier pelvis/pelvis-tone-decr|incr 0.826000
+modifier breast/BreastSize 0.413000
+modifier breast/BreastFirmness 0.500000
+modifier macrodetails/Gender 0.000000
+modifier macrodetails/Age 0.500000
+modifier macrodetails/African 0.333333
+modifier macrodetails/Asian 0.333333
+modifier macrodetails/Caucasian 0.333333
+modifier macrodetails-universal/Muscle 0.540000
+modifier macrodetails-universal/Weight 0.484000
+modifier macrodetails-height/Height 0.500000
+modifier macrodetails-proportions/BodyProportions 0.500000
+teeth Teeth_Shape05 c6096ff1-46b6-4fdf-b992-49c1bc67f18b
+hair Braid01 eead6f99-d6c6-4f6b-b6c2-210459d7a62e
+skeleton game_engine.mhskel
+eyebrows eyebrow001 9c81ec3a-faa5-4c94-9cdb-992300ba3084
+eyes Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa
+pose standing03.bvh
+clothes shoes03 ad622a26-da1e-4e3c-9f8e-454edf10d504
+clothes female_elegantsuit01 8bb26477-c09f-4439-b05f-961516acf662
+clothesHideFaces True
+expression determination02.mhpose
+skinMaterial skins/default.mhmat
+material Braid01 eead6f99-d6c6-4f6b-b6c2-210459d7a62e braid01.mhmat
+material Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa eyes/materials/brown.mhmat
+material eyebrow001 9c81ec3a-faa5-4c94-9cdb-992300ba3084 eyebrow001.mhmat
+material Teeth_Shape05 c6096ff1-46b6-4fdf-b992-49c1bc67f18b teeth/materials/teeth.mhmat
+subdivide False
