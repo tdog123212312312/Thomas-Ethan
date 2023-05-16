@@ -5,7 +5,11 @@
     "com.unity.ide.rider": "3.0.15",
     "com.unity.ide.visualstudio": "2.0.16",
     "com.unity.ide.vscode": "1.2.5",
+<<<<<<< HEAD
     "com.unity.render-pipelines.high-definition": "8.2.0",
+=======
+    "com.unity.postprocessing": "2.2.2",
+>>>>>>> b1de5697d24a5160d419bf4928f0ce66e7da600f
     "com.unity.test-framework": "1.1.31",
     "com.unity.textmeshpro": "3.0.6",
     "com.unity.timeline": "1.6.4",
