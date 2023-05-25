@@ -1,0 +1,103 @@
+# Written by MakeHuman 1.2.0 final
+version v1.2.0
+name BillyBob
+camera 5.5 23.5 1.0 1.0 0.37724870236736363 0.9374999999999997
+modifier head/head-angle-in|out -0.080000
+modifier head/head-fat-decr|incr -1.000000
+modifier head/head-oval 0.492000
+modifier head/head-rectangular 0.056000
+modifier head/head-trans-backward|forward -1.000000
+modifier forehead/forehead-trans-backward|forward -0.064000
+modifier forehead/forehead-scale-vert-decr|incr -0.158000
+modifier forehead/forehead-temple-decr|incr 0.048000
+modifier eyebrows/eyebrows-trans-backward|forward 0.016000
+modifier eyebrows/eyebrows-angle-down|up 0.032000
+modifier eyebrows/eyebrows-trans-down|up -1.000000
+modifier neck/neck-double-decr|incr -1.000000
+modifier neck/neck-scale-depth-decr|incr 0.380000
+modifier neck/neck-scale-horiz-decr|incr -0.444000
+modifier neck/neck-scale-vert-decr|incr -0.048000
+modifier neck/neck-trans-in|out -0.096000
+modifier neck/neck-back-scale-depth-decr|incr -0.604000
+modifier nose/nose-trans-down|up -0.492000
+modifier nose/nose-trans-backward|forward -0.444000
+modifier nose/nose-trans-in|out 0.064000
+modifier nose/nose-scale-horiz-decr|incr -0.698000
+modifier nose/nose-scale-depth-decr|incr 0.366000
+modifier nose/nose-nostrils-width-decr|incr 0.460000
+modifier nose/nose-point-width-decr|incr -1.000000
+modifier nose/nose-base-down|up -0.492000
+modifier nose/nose-width1-decr|incr -1.000000
+modifier nose/nose-width2-decr|incr -0.350000
+modifier nose/nose-width3-decr|incr -0.190000
+modifier nose/nose-compression-compress|uncompress -0.380000
+modifier nose/nose-curve-concave|convex -0.174000
+modifier nose/nose-greek-decr|incr -0.048000
+modifier nose/nose-hump-decr|incr 0.064000
+modifier nose/nose-volume-decr|incr -0.112000
+modifier nose/nose-nostrils-angle-down|up -0.556000
+modifier nose/nose-point-down|up 0.682000
+modifier nose/nose-septumangle-decr|incr 1.000000
+modifier nose/nose-flaring-decr|incr 0.112000
+modifier mouth/mouth-scale-horiz-decr|incr -0.604000
+modifier mouth/mouth-scale-vert-decr|incr -0.572000
+modifier mouth/mouth-scale-depth-decr|incr -0.460000
+modifier mouth/mouth-trans-in|out 0.016000
+modifier mouth/mouth-trans-backward|forward -0.650000
+modifier mouth/mouth-lowerlip-height-decr|incr -1.000000
+modifier mouth/mouth-lowerlip-width-decr|incr -0.412000
+modifier mouth/mouth-upperlip-height-decr|incr -0.254000
+modifier mouth/mouth-upperlip-width-decr|incr -0.270000
+modifier mouth/mouth-cupidsbow-width-decr|incr 0.142000
+modifier mouth/mouth-dimples-in|out 1.000000
+modifier mouth/mouth-laugh-lines-in|out -0.032000
+modifier mouth/mouth-lowerlip-ext-down|up -0.064000
+modifier mouth/mouth-angles-down|up 0.096000
+modifier mouth/mouth-lowerlip-middle-down|up -0.222000
+modifier mouth/mouth-lowerlip-volume-decr|incr 0.080000
+modifier mouth/mouth-philtrum-volume-decr|incr -0.016000
+modifier mouth/mouth-upperlip-volume-decr|incr -0.428000
+modifier mouth/mouth-upperlip-ext-down|up 0.064000
+modifier chin/chin-jaw-drop-decr|incr -1.000000
+modifier chin/chin-cleft-decr|incr -1.000000
+modifier chin/chin-prominent-decr|incr 0.048000
+modifier chin/chin-width-decr|incr -0.142000
+modifier chin/chin-height-decr|incr -0.064000
+modifier chin/chin-bones-decr|incr -0.080000
+modifier chin/chin-prognathism-decr|incr -0.016000
+modifier torso/torso-scale-depth-decr|incr -0.016000
+modifier torso/torso-scale-horiz-decr|incr -0.492000
+modifier torso/torso-scale-vert-decr|incr -0.048000
+modifier torso/torso-trans-in|out -0.064000
+modifier hip/hip-scale-depth-decr|incr 0.032000
+modifier hip/hip-scale-horiz-decr|incr -0.064000
+modifier hip/hip-scale-vert-decr|incr 0.016000
+modifier stomach/stomach-tone-decr|incr 1.000000
+modifier stomach/stomach-pregnant-decr|incr -0.270000
+modifier buttocks/buttocks-volume-decr|incr -0.158000
+modifier pelvis/pelvis-tone-decr|incr -0.222000
+modifier breast/BreastSize 0.500000
+modifier breast/BreastFirmness 0.500000
+modifier macrodetails/Gender 1.000000
+modifier macrodetails/Age 0.500000
+modifier macrodetails/African 0.333333
+modifier macrodetails/Asian 0.333333
+modifier macrodetails/Caucasian 0.333333
+modifier macrodetails-universal/Muscle 0.500000
+modifier macrodetails-universal/Weight 0.500000
+modifier macrodetails-height/Height 0.500000
+modifier macrodetails-proportions/BodyProportions 0.500000
+teeth Teeth_Base 0a5ec82a-0d5f-43ce-a765-8f076f95692d
+hair short01 766436e9-63ed-4f6a-afa9-99f3acff70a8
+skeleton game_engine.mhskel
+eyes Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa
+pose standing02.bvh
+clothes male_casualsuit03 39864dca-8d5c-4d7c-84ce-c00982e93cb7
+clothes shoes01 6e0c552e-e207-44df-8f70-c9bfdeddd8c6
+clothesHideFaces True
+expression determination02.mhpose
+skinMaterial skins/default.mhmat
+material short01 766436e9-63ed-4f6a-afa9-99f3acff70a8 short01.mhmat
+material Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa eyes/materials/green.mhmat
+material Teeth_Base 0a5ec82a-0d5f-43ce-a765-8f076f95692d teeth/materials/teeth.mhmat
+subdivide False
